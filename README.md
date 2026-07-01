@@ -1,3 +1,14 @@
+<img align="center" alt="Coding" width="1000" height="400" src="https://img.freepik.com/premium-photo/student-with-laptop-visually-appealing-composition-featuring-student-immersed-generative-ai_964845-34.jpg">
+
+
+
+
+
+
+
+
+
+
 # 💫 Hi 👋, I'm Laksh Chinchmalatpure
 **A passionate AI Engineer || IT Engineer || Looking for Hackathons ,Internships , 12+LPA JOB**
 
