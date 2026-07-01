@@ -1,11 +1,3 @@
-<img align="center" alt="Coding" width="1000" height="400" src="https://img.freepik.com/premium-photo/student-with-laptop-visually-appealing-composition-featuring-student-immersed-generative-ai_964845-34.jpg">
-
-
-
-
-
-
-
 
 
 
@@ -47,10 +39,3 @@ Email Me 👉 ✉️ **lakshchinchmalatpure@gmail.com** For Collaboration/Projec
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LakshChinchmalatpure&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=LakshChinchmalatpure&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
