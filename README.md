@@ -2,14 +2,14 @@
 
 
 # 💫 Hi 👋, I'm Laksh Chinchmalatpure
-**A passionate AI Engineer || IT Engineer || Looking for Hackathons ,Internships , 12+LPA JOB**
+**A passionate AI Engineer || IT Engineer || Open to Hackathons ,Internships , 12+LPA JOB**
 
 Email Me 👉 ✉️ **lakshchinchmalatpure@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Internship and Hackathon as I'm 3rd Year  Btech Student
-- 🌱 **I’m currently learning:** DSA,Web Development,Deployment skills,AI related terms,Enthuastc about AIML,Data Science
+- 🌱 **I’m currently learning:** DSA,Web Development,Deployment skills,AI related terms,Enthuastic about AIML,Data Science
 - 👯 **I’m looking to collaborate on:** Gooogle,Microsoft,Amazon And Popular MNCs 
-- 🤔 **I’m looking for help with:** Bharatiya Antariksh Hackathon 2026 by ISRO, Flipcart Grid 2026 , Microsoft's Data Day Fabrics and AI skill Fest,Vibe2ship Hackathon by CodingNinjas and Google Developers ,Participant as MIcrosoft Ambassador
+- 🤔 **I’m looking for help with:** Bharatiya Antariksh Hackathon 2026 by ISRO, Flipkart Grid 2026 , Microsoft's Data Day Fabrics and AI skill Fest,Vibe2ship Hackathon by CodingNinjas and Google Developers ,Participant as Microsoft Ambassador
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** lakshchinchmalatpure@gmail.com
 - 😄 **Pronouns:** Laksh
